@@ -1,2 +1,3 @@
-# Primeiros passos
- Criando o primeiro repositorio
+# Olá Mundo
+ Repositório criado durante o Curso de Git e GitHub
+ Guanabara é brabo demais
